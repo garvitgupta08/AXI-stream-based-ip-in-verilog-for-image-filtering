@@ -27,9 +27,9 @@
  
  After Blurring operation
  
- <img src="https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out.bmp?token=AKNY4EQGIKQBR5YMQU56UDC7HPGJU" width="300" height="300" />
+ <img src="https://github.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/blob/master/out.bmp" width="300" height="300" />
  
  After Edge detection
  
- <img src ="https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out_5123.bmp?token=AKNY4EWIALMYI3XGXUBAMTS7HPGHI" width="300" height="300" />
+ <img src ="https://github.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/blob/master/out.bmp" width="300" height="300" />
  
