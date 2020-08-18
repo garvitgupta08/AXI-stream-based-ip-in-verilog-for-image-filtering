@@ -21,12 +21,15 @@
  1. In testbench header is defined according to the .bmp image i.e. 1080. 
  
  # Results
-  Input Image
+ Input Image
+  
  <img src="https://github.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/blob/master/lena512.bmp" width="300" height="300" />
  
  After Blurring operation
- https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out.bmp?token=AKNY4EQGIKQBR5YMQU56UDC7HPGJU
+ 
+ <img src="https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out.bmp?token=AKNY4EQGIKQBR5YMQU56UDC7HPGJU" width="300" height="300" />
  
  After Edge detection
- https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out_5123.bmp?token=AKNY4EWIALMYI3XGXUBAMTS7HPGHI
+ 
+ <img src ="https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out_5123.bmp?token=AKNY4EWIALMYI3XGXUBAMTS7HPGHI" width="300" height="300" />
  
