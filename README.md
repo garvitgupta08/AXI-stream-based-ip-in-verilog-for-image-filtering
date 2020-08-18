@@ -31,5 +31,5 @@
  
  After Edge detection
  
- <img src ="https://github.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/blob/master/out.bmp" width="300" height="300" />
+ <img src ="https://github.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/blob/master/out_5123.bmp" width="300" height="300" />
  
