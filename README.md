@@ -22,8 +22,8 @@
  
  # Results
  Input Image
- https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/lena512.bmp?token=AKNY4EVVYKG47GCSVX45ODS7HPGEE
- 
+ https://github.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/blob/master/lena512.bmp
+
  After Blurring operation
  https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out.bmp?token=AKNY4EQGIKQBR5YMQU56UDC7HPGJU
  
