@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-
+// specify the input and output path for the image at locations marked XXXXX
 
 `define headerSize 1080
 `define imageWidth 512
@@ -58,9 +58,9 @@ integer send_size; // variable to indicate amount of data to be transferred to I
      #100;
      // Send the actual image. First step is to open the file in binary format and read model
     // file_in = $fopen("lena512.bmp","rb"); // returns the pointer of integer type
-    file_in = $fopen("C:/Users/Garvit/Downloads/lena512.bmp","rb");
+    file_in = $fopen("XXXXX","rb");
     
-     file_out = $fopen("C:/Users/Garvit/Downloads/out.bmp","wb"); // processed image writtent back
+     file_out = $fopen("XXXXX","wb"); // processed image writtent back
      
      // Initial header part needs to be written back as it is
      for (i=0;i<`headerSize;i=i+1)
