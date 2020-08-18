@@ -14,8 +14,19 @@
  5. image_proc_tb: This is the testbench for simulating the whole process. Specify the input and output path.
  
  # builtin ip
- 1. cordic ip: It is used in multi_acm module for doing the integer square root operations.
+ 1. cordic ip: It is used in multi_acm module for doing integer square root operations.
  2. Fifo generator: It is used for external buffer in top module.
 
-      
+ # Image specifiactions
+ 1. In testbench header is defined according to the .bmp image i.e. 1080. 
+ 
+ # Results
+ Input Image
+ https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/lena512.bmp?token=AKNY4EVVYKG47GCSVX45ODS7HPGEE
+ 
+ After Blurring operation
+ https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out.bmp?token=AKNY4EQGIKQBR5YMQU56UDC7HPGJU
+ 
+ After Edge detection
+ https://raw.githubusercontent.com/garvitgupta08/AXI-stream-based-ip-in-verilog-for-image-filtering/master/out_5123.bmp?token=AKNY4EWIALMYI3XGXUBAMTS7HPGHI
  
